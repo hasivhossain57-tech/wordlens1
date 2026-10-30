@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.WordLens" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">#1B5E8C</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="android:statusBarColor">#1B5E8C</item>
+    </style>
+</resources>
